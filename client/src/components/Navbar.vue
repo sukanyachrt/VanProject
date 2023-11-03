@@ -13,20 +13,9 @@
                     <a href="/vans"><span class="fa fa-car mr-3"></span> ดูข้อมูลรถบรรทุก</a>
                 </li>
                 <li>
-                    <a href="/salevans"><span class="fa fa-money mr-3"></span> จำหน่ายรถบรรทุก</a>
+                    <a href="/salevans"><span class="fa fa-money mr-3"></span> สั่งซื้อรถบรรทุก</a>
                 </li>
-                <li>
-                    <a href="login"><span class="fa fa-briefcase mr-3"></span> ดูสมาชิกโรงแรม</a>
-                </li>
-                <li>
-                    <a href="hotels"><span class="fa fa-sticky-note mr-3"></span> รายการโรงแรม</a>
-                </li>
-                <li>
-                    <a href="bloghotels"><span class="fa fa-suitcase mr-3"></span> จองที่พักโรงแรม</a>
-                </li>
-                <li>
-                    <a href="#"><span class="fa fa-cogs mr-3"></span> ออกจากระบบ</a>
-                </li>
+                
 
             </ul>
         </div>

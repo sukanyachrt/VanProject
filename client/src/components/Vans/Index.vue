@@ -140,7 +140,6 @@
     </div>
 </template>
 <script>
-import HotelService from "@/services/HotelsService";
 export default {
     data() {
         return {
